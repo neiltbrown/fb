@@ -1,0 +1,2 @@
+-record(command, {id, type, data}).
+-record(match_created, {id, home, away, start_time}).
